@@ -1,0 +1,12 @@
+{
+  "name": "segmentio-canonical",
+  "description": "Component: returns the canonical URL for the page.",
+  "version": "0.0.1",
+  "keywords": [
+    "canonical",
+    "url",
+    "meta"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
